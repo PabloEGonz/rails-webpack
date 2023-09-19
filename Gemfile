@@ -19,6 +19,8 @@ gem 'jsbundling-rails'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+gem 'webpacker'
+
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem 'turbo-rails'
 
